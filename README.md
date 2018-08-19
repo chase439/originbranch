@@ -76,3 +76,6 @@ CoreUI-React#v2.0.0
 └── package.json
 ```
 
+## Troubleshooting
+
+- If `npm test` produces `Error: EMFILE: too many open files, watch`, then to fix: `brew install watchman`. Reference: https://github.com/facebook/create-react-app/issues/4540
