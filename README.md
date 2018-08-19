@@ -79,3 +79,4 @@ CoreUI-React#v2.0.0
 ## Troubleshooting
 
 - If `npm test` produces `Error: EMFILE: too many open files, watch`, then to fix: `brew install watchman`. Reference: https://github.com/facebook/create-react-app/issues/4540
+- [Understanding ES6 import and export](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
