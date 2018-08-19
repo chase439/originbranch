@@ -42,6 +42,17 @@ https://github.com/gitname/react-gh-pages
    - "predeploy": "npm run build",
    - "deploy": "gh-pages -d build"
 
+## Command Summary
+
+| Command               | Description                                               |
+| --------------------- |:---------------------------------------------------------:|
+| npm start             | start a development server for the demo app               |
+| npm test              | run tests                                                 |
+| npm run test:coverage | run tests and produce a code coverage report in coverage/ |
+| npm run test:watch    | start a test server and re-run tests on every change      |
+| npm run build         | prepare for publishing to npm                             |
+| npm run clean         | delete built resources                                    |
+
 ## What's included
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
