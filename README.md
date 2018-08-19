@@ -45,7 +45,7 @@ https://github.com/gitname/react-gh-pages
 ## Command Summary
 
 | Command               | Description                                               |
-| --------------------- |:---------------------------------------------------------:|
+| :-------------------- | :-------------------------------------------------------- |
 | npm start             | start a development server for the demo app               |
 | npm test              | run tests                                                 |
 | npm run test:coverage | run tests and produce a code coverage report in coverage/ |
